@@ -1,13 +1,23 @@
-inlog voor beheerder
-email: ceo@bierkiezer.nl
-wachtwoord: bierislekker18
+A PHP project created for Computer Science in my final year of Higher General Secondary Education.
+Grading: A+
+---------------------------------------------------------------------------------------------------
+Language            Dutch
+Task                create a website with the database you received and build the website with the
+                    information and the requested functions that was given in the assignment.
+CSS Framework       Bootstrap
+Database function   mysqli
+Database name       bierkiezer
+---------------------------------------------------------------------------------------------------
+Logins:
 
-inlog voor premium account
-email: test@gmail.com
-wachtwoord: test
+Administration
+    email: ceo@bierkiezer.nl
+ password: bierislekker18
 
-inlog voor trial account
-email: test2@gmail.com
-wachtwoord: test
+Premium Account
+    email: test@gmail.com
+ password: test
 
-P.S. Ik heb ook de nieuwe projectplan geupload.
+Trial Account
+    email: test2@gmail.com
+ password: test
